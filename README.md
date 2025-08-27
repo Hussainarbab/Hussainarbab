@@ -1,7 +1,10 @@
 # 💫 About Me:
 🌱 I’m currently learning **React JS, JavaScript & Frontend Development**  
-💻 Passionate about building modern, responsive, and user-friendly web apps  
-👨‍💻 10+ years experience in Frontend Development  
+
+💻 Passionate about creating **modern, responsive & user-friendly web apps**  
+🚀 Always exploring **new technologies & design trends**  
+⚡ Fun fact: I treat debugging like solving a mystery 🕵️‍♂️ 
+👨‍💻 2+ years experience in Frontend Development  
 📫 Reach me at: **arbabhussan63@gmail.com**  
 
 ---
@@ -48,23 +51,19 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbabhussan63&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
-  <img src="https://streak-stats.demolab.com/?user=arbabhussan63&theme=radical&hide_border=false" height="160px"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbabhussan63&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussainarbab&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Hussainarbab&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Hussainarbab&theme=radical&hide_border=false)  
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 
----
+<br/>
 
-# 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arbabhussan63&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hussainarbab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<!--START_SECTION:waka-->
+text  
+Python   3 hrs 58 mins    █████████████████████████   100.00 %
+<!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=arbabhussan63&icon=0&color=0"/>
-</p>
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Hussainarbab.Hussainarbab.svg)
