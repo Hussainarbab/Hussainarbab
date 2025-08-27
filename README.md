@@ -1,60 +1,38 @@
-<!--
-**Hussainarbab/Hussainarbab** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+# 💫 About Me:
+🌱 I’m currently learning **React JS, JavaScript & Frontend Development**  
+💻 Passionate about building modern, responsive, and user-friendly web apps  
+👨‍💻 10+ years experience in Frontend Development  
+📫 Reach me at: **arbabhussan63@gmail.com**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Hussain+Abbas+Arbab..;Frontend+Developer;Techever+Student;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
-</p>
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
 
-# 🖥️ Technical Skills: 
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>
-</p>
+---
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussainarbab&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)  
-![](https://github-readme-stats.vercel.app/api?username=Hussainarbab&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Hussainarbab&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://streak-stats.demolab.com/?user=Hussainarbab&theme=radical&hide_border=false)  
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hussainarbab&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
-<br/>
+---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Hussainarbab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!--START_SECTION:waka-->
-text  
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-<!--END_SECTION:waka-->
+---
 
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Hussainarbab.Hussainarbab.svg)
+[![](https://visitcount.itsvg.in/api?id=Hussainarbab&icon=0&color=0)](https://visitcount.itsvg.in)
