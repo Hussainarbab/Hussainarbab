@@ -61,6 +61,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hussainarbab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Hussainarbab/Hussainarbab/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Hussainarbab/Hussainarbab/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
 <!--START_SECTION:waka-->
 text  
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
