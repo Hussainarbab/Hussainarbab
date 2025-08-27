@@ -3,7 +3,7 @@
 
 💻 Passionate about creating **modern, responsive & user-friendly web apps**  
 🚀 Always exploring **new technologies & design trends**  
-⚡ Fun fact: I treat debugging like solving a mystery 🕵️‍♂️ 
+
 👨‍💻 2+ years experience in Frontend Development  
 📫 Reach me at: **arbabhussan63@gmail.com**  
 
