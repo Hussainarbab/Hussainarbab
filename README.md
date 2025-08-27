@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning **React JS, JavaScript & Frontend Development**  
 💻 Passionate about building modern, responsive, and user-friendly web apps  
-👨‍💻 10+ years experience in Frontend Development  
+👨‍💻 2+ years experience in Frontend Development  
 📫 Reach me at: **arbabhussan63@gmail.com**  
 
 ---
@@ -9,6 +9,11 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/your-facebook)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/your-instagram)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/your-youtube)  
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/your-discord)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/your-whatsapp-number)  
 
 ---
 
