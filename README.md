@@ -17,19 +17,19 @@
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/your-facebook" target="_blank">
+  <a href="[https://facebook.com/your-facebook](https://www.facebook.com/profile.php?id=61550504311207)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="[https://instagram.com/your-instagram](https://www.instagram.com/hussyn_arbab/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/your-youtube" target="_blank">
+  <a href="[https://youtube.com/your-youtube](https://www.youtube.com/@fatimi-force72)" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://discord.gg/your-discord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://wa.me/your-whatsapp-number" target="_blank">
+  <a href="https://wa.me/03555960875" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
