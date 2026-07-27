@@ -1,11 +1,17 @@
 # 💫 About Me:
-🌱 I’m currently learning **React JS, JavaScript & Frontend Development**  
 
-💻 Passionate about creating **modern, responsive & user-friendly web apps**  
-🚀 Always exploring **new technologies & design trends**  
+👨‍💻 **Frontend Developer** with **3+ years of experience** building modern, responsive, and user-friendly web applications.
 
-👨‍💻 2+ years experience in Frontend Development  
-📫 Reach me at: **arbabhussan63@gmail.com**  
+💻 Skilled in **HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, and Tailwind CSS**.
+
+🚀 Passionate about writing clean, efficient code and creating seamless user experiences.
+
+🎯 Focused on developing high-performance, responsive websites with modern UI/UX practices.
+
+🌐 Always improving my skills by working on real-world projects and staying up to date with the latest web technologies.
+
+📫 **Reach me at:** **[arbabhussan63@gmail.com](mailto:arbabhussan63@gmail.com)**
+ 
 
 ---
 
